@@ -10,7 +10,7 @@
 ### Some other facts:
 - Ahmadi Muslim
 - Pronouns: he/him
-- How to reach me: Twitter
+- How to reach me: [Mastodon](https://social.vivaldi.net/@StandingPad)
 
 <!--
 **StandingPadAnimations/StandingPadAnimations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
