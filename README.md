@@ -9,4 +9,5 @@
 ### Some other facts:
 - Ahmadi Muslim
 - Pronouns: he/him
+- Public GPG Key: `7F6A0E6FA332BAD0EC9E76B383C7F596A88BE583`
 - Website: https://standingpadanimations.github.io/
