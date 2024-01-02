@@ -1,4 +1,4 @@
-## Hello, I'm StandingPad, and here's some things about me:
+## Hello, I'm Mahid, and here's some things about me:
 - Creator of the Resurgence VM crate for Rust
 - I'm one of the maintainers to MCprep
 - My programming carrer began with the 3D software Blender (weird I know)
